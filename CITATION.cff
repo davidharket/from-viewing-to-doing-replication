@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both the thesis and this repository."
+title: "Replication code for: From Viewing to Doing? A Randomised Evaluation of Avatar-Led Onboarding in an AI Video Platform"
+abstract: >-
+  Analysis code reproducing the tables, figures, and summary statistics for a
+  randomised field experiment comparing avatar-led and matched non-avatar
+  onboarding in an AI video platform. Code only; the underlying telemetry is
+  pseudonymised personal data under the GDPR and is not distributed.
+type: software
+authors:
+  - family-names: Harket
+    given-names: David
+    affiliation: "University of Copenhagen, Social Data Science"
+version: "1.0"
+license: MIT
+repository-code: "https://github.com/davidharket/from-viewing-to-doing-replication"
+keywords:
+  - randomised controlled trial
+  - onboarding
+  - AI avatars
+  - reproducibility
+  - human-computer interaction
+references:
+  - type: thesis
+    title: "From Viewing to Doing? A Randomised Evaluation of Avatar-Led Onboarding in an AI Video Platform"
+    authors:
+      - family-names: Harket
+        given-names: David
+    year: 2026
+    institution:
+      name: "University of Copenhagen"
+    thesis-type: "MSc thesis"

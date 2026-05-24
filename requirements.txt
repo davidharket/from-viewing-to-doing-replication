@@ -1,0 +1,9 @@
+# Runtime dependencies for the replication analysis.
+# Tested with Python 3.9.6 and the exact versions noted in brackets.
+pandas>=2.0,<3      # tested: 2.3.3
+numpy>=1.24,<3      # tested: 2.0.2
+scipy>=1.10,<2      # tested: 1.13.1
+
+# Figure rendering (the default run) additionally requires a system LaTeX
+# toolchain providing `pdflatex` and `pdftoppm` (e.g. TeX Live + Poppler).
+# These are NOT Python packages. Run with `--skip-figures` to avoid them.

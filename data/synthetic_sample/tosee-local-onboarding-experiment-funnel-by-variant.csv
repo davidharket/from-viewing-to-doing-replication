@@ -1,0 +1,3 @@
+variant,assigned,exposed,video_started,watched_25,watched_50,watched_75,watched_90,video_completed,skipped_or_dismissed,cta_clicked,first_meaningful_action,video_create_started,first_video_created,clarity_observable
+avatar,14,13,13,10,9,6,3,1,0,4,9,3,0,9
+control,14,10,10,6,2,1,0,0,0,6,9,1,0,11

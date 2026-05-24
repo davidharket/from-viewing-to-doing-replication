@@ -1,0 +1,135 @@
+id,assignment_id,onboarding_episode_id,variant,event_name,source,created_at,payload_json
+1,1,synthetic-episode-0001,avatar,onboarding_modal_shown,synthetic,2026-05-13T20:32:46Z,"{""has_gclid"": false, ""attribution_source"": ""direct"", ""attribution_medium"": ""none"", ""attribution_campaign"": null, ""analytics_consent_state"": ""granted"", ""clarity_enabled"": true}"
+2,1,synthetic-episode-0001,avatar,onboarding_video_started,synthetic,2026-05-13T20:32:50Z,"{""video_current_time_ms"": 0, ""video_duration_ms"": 169000}"
+3,1,synthetic-episode-0001,avatar,onboarding_video_progress_25,synthetic,2026-05-13T20:33:04Z,"{""video_current_time_ms"": 42250, ""video_duration_ms"": 169000}"
+4,1,synthetic-episode-0001,avatar,onboarding_video_progress_50,synthetic,2026-05-13T20:33:15Z,"{""video_current_time_ms"": 84500, ""video_duration_ms"": 169000}"
+5,1,synthetic-episode-0001,avatar,first_meaningful_action,synthetic,2026-05-13T20:33:28Z,{}
+6,1,synthetic-episode-0001,avatar,create_video_page_opened,synthetic,2026-05-13T20:33:47Z,{}
+7,1,synthetic-episode-0001,avatar,video_create_started,synthetic,2026-05-13T20:34:12Z,{}
+8,2,synthetic-episode-0002,control,onboarding_modal_shown,synthetic,2026-05-10T08:32:59Z,"{""has_gclid"": true, ""attribution_source"": ""google"", ""attribution_medium"": ""cpc"", ""attribution_campaign"": ""synthetic_campaign"", ""analytics_consent_state"": ""granted"", ""clarity_enabled"": false}"
+9,2,synthetic-episode-0002,control,onboarding_video_started,synthetic,2026-05-10T08:33:00Z,"{""video_current_time_ms"": 0, ""video_duration_ms"": 169000}"
+10,3,synthetic-episode-0003,avatar,onboarding_modal_shown,synthetic,2026-05-10T20:36:58Z,"{""has_gclid"": true, ""attribution_source"": ""google"", ""attribution_medium"": ""cpc"", ""attribution_campaign"": ""synthetic_campaign"", ""analytics_consent_state"": ""granted"", ""clarity_enabled"": true}"
+11,3,synthetic-episode-0003,avatar,onboarding_video_started,synthetic,2026-05-10T20:36:59Z,"{""video_current_time_ms"": 0, ""video_duration_ms"": 169000}"
+12,3,synthetic-episode-0003,avatar,onboarding_video_progress_25,synthetic,2026-05-10T20:37:10Z,"{""video_current_time_ms"": 42250, ""video_duration_ms"": 169000}"
+13,3,synthetic-episode-0003,avatar,onboarding_video_progress_50,synthetic,2026-05-10T20:37:30Z,"{""video_current_time_ms"": 84500, ""video_duration_ms"": 169000}"
+14,3,synthetic-episode-0003,avatar,onboarding_video_progress_75,synthetic,2026-05-10T20:37:57Z,"{""video_current_time_ms"": 126750, ""video_duration_ms"": 169000}"
+15,4,synthetic-episode-0004,control,onboarding_modal_shown,synthetic,2026-05-06T11:51:29Z,"{""has_gclid"": true, ""attribution_source"": ""google"", ""attribution_medium"": ""cpc"", ""attribution_campaign"": ""synthetic_campaign"", ""analytics_consent_state"": ""granted"", ""clarity_enabled"": false}"
+16,5,synthetic-episode-0005,avatar,onboarding_modal_shown,synthetic,2026-05-14T06:49:20Z,"{""has_gclid"": true, ""attribution_source"": ""google"", ""attribution_medium"": ""cpc"", ""attribution_campaign"": ""synthetic_campaign"", ""analytics_consent_state"": ""granted"", ""clarity_enabled"": true}"
+17,5,synthetic-episode-0005,avatar,onboarding_video_started,synthetic,2026-05-14T06:49:23Z,"{""video_current_time_ms"": 0, ""video_duration_ms"": 169000}"
+18,5,synthetic-episode-0005,avatar,onboarding_cta_clicked,synthetic,2026-05-14T06:49:52Z,{}
+19,5,synthetic-episode-0005,avatar,first_meaningful_action,synthetic,2026-05-14T06:50:22Z,{}
+20,6,synthetic-episode-0006,control,onboarding_modal_shown,synthetic,2026-05-14T00:04:24Z,"{""has_gclid"": false, ""attribution_source"": ""direct"", ""attribution_medium"": ""none"", ""attribution_campaign"": null, ""analytics_consent_state"": ""granted"", ""clarity_enabled"": true}"
+21,6,synthetic-episode-0006,control,onboarding_video_started,synthetic,2026-05-14T00:04:26Z,"{""video_current_time_ms"": 0, ""video_duration_ms"": 169000}"
+22,6,synthetic-episode-0006,control,onboarding_video_progress_25,synthetic,2026-05-14T00:04:42Z,"{""video_current_time_ms"": 42250, ""video_duration_ms"": 169000}"
+23,6,synthetic-episode-0006,control,onboarding_video_progress_50,synthetic,2026-05-14T00:05:10Z,"{""video_current_time_ms"": 84500, ""video_duration_ms"": 169000}"
+24,6,synthetic-episode-0006,control,onboarding_video_progress_75,synthetic,2026-05-14T00:05:29Z,"{""video_current_time_ms"": 126750, ""video_duration_ms"": 169000}"
+25,6,synthetic-episode-0006,control,onboarding_cta_clicked,synthetic,2026-05-14T00:05:49Z,{}
+26,6,synthetic-episode-0006,control,first_meaningful_action,synthetic,2026-05-14T00:06:10Z,{}
+27,6,synthetic-episode-0006,control,create_video_page_opened,synthetic,2026-05-14T00:06:30Z,{}
+28,7,synthetic-episode-0007,avatar,onboarding_modal_shown,synthetic,2026-05-10T03:47:43Z,"{""has_gclid"": true, ""attribution_source"": ""google"", ""attribution_medium"": ""cpc"", ""attribution_campaign"": ""synthetic_campaign"", ""analytics_consent_state"": ""granted"", ""clarity_enabled"": true}"
+29,8,synthetic-episode-0008,control,onboarding_modal_shown,synthetic,2026-05-11T02:39:19Z,"{""has_gclid"": true, ""attribution_source"": ""google"", ""attribution_medium"": ""cpc"", ""attribution_campaign"": ""synthetic_campaign"", ""analytics_consent_state"": ""granted"", ""clarity_enabled"": true}"
+30,8,synthetic-episode-0008,control,first_meaningful_action,synthetic,2026-05-11T02:39:31Z,{}
+31,8,synthetic-episode-0008,control,create_video_page_opened,synthetic,2026-05-11T02:39:56Z,{}
+32,9,synthetic-episode-0009,avatar,onboarding_modal_shown,synthetic,2026-05-13T17:38:19Z,"{""has_gclid"": true, ""attribution_source"": ""google"", ""attribution_medium"": ""cpc"", ""attribution_campaign"": ""synthetic_campaign"", ""analytics_consent_state"": ""granted"", ""clarity_enabled"": true}"
+33,9,synthetic-episode-0009,avatar,onboarding_video_started,synthetic,2026-05-13T17:38:20Z,"{""video_current_time_ms"": 0, ""video_duration_ms"": 169000}"
+34,9,synthetic-episode-0009,avatar,onboarding_video_progress_25,synthetic,2026-05-13T17:38:43Z,"{""video_current_time_ms"": 42250, ""video_duration_ms"": 169000}"
+35,9,synthetic-episode-0009,avatar,onboarding_video_progress_50,synthetic,2026-05-13T17:39:05Z,"{""video_current_time_ms"": 84500, ""video_duration_ms"": 169000}"
+36,9,synthetic-episode-0009,avatar,onboarding_video_progress_75,synthetic,2026-05-13T17:39:21Z,"{""video_current_time_ms"": 126750, ""video_duration_ms"": 169000}"
+37,9,synthetic-episode-0009,avatar,onboarding_video_progress_90,synthetic,2026-05-13T17:39:41Z,"{""video_current_time_ms"": 152100, ""video_duration_ms"": 169000}"
+38,9,synthetic-episode-0009,avatar,first_meaningful_action,synthetic,2026-05-13T17:39:43Z,{}
+39,9,synthetic-episode-0009,avatar,create_video_page_opened,synthetic,2026-05-13T17:39:55Z,{}
+40,9,synthetic-episode-0009,avatar,video_create_started,synthetic,2026-05-13T17:40:03Z,{}
+41,9,synthetic-episode-0009,avatar,video_create_failed,synthetic,2026-05-13T17:40:19Z,"{""reason"": ""synthetic_failure""}"
+42,10,synthetic-episode-0010,control,onboarding_modal_shown,synthetic,2026-05-14T03:42:45Z,"{""has_gclid"": false, ""attribution_source"": ""direct"", ""attribution_medium"": ""none"", ""attribution_campaign"": null, ""analytics_consent_state"": ""granted"", ""clarity_enabled"": true}"
+43,10,synthetic-episode-0010,control,onboarding_video_started,synthetic,2026-05-14T03:42:49Z,"{""video_current_time_ms"": 0, ""video_duration_ms"": 169000}"
+44,10,synthetic-episode-0010,control,onboarding_video_progress_25,synthetic,2026-05-14T03:43:04Z,"{""video_current_time_ms"": 42250, ""video_duration_ms"": 169000}"
+45,10,synthetic-episode-0010,control,onboarding_cta_clicked,synthetic,2026-05-14T03:43:15Z,{}
+46,10,synthetic-episode-0010,control,first_meaningful_action,synthetic,2026-05-14T03:43:28Z,{}
+47,10,synthetic-episode-0010,control,create_video_page_opened,synthetic,2026-05-14T03:43:32Z,{}
+48,11,synthetic-episode-0011,avatar,onboarding_modal_shown,synthetic,2026-05-11T07:29:23Z,"{""has_gclid"": true, ""attribution_source"": ""google"", ""attribution_medium"": ""cpc"", ""attribution_campaign"": ""synthetic_campaign"", ""analytics_consent_state"": ""granted"", ""clarity_enabled"": true}"
+49,11,synthetic-episode-0011,avatar,onboarding_video_started,synthetic,2026-05-11T07:29:25Z,"{""video_current_time_ms"": 0, ""video_duration_ms"": 169000}"
+50,11,synthetic-episode-0011,avatar,onboarding_video_progress_25,synthetic,2026-05-11T07:29:42Z,"{""video_current_time_ms"": 42250, ""video_duration_ms"": 169000}"
+51,11,synthetic-episode-0011,avatar,onboarding_video_progress_50,synthetic,2026-05-11T07:29:59Z,"{""video_current_time_ms"": 84500, ""video_duration_ms"": 169000}"
+52,11,synthetic-episode-0011,avatar,onboarding_video_progress_75,synthetic,2026-05-11T07:30:17Z,"{""video_current_time_ms"": 126750, ""video_duration_ms"": 169000}"
+53,11,synthetic-episode-0011,avatar,onboarding_video_progress_90,synthetic,2026-05-11T07:30:38Z,"{""video_current_time_ms"": 152100, ""video_duration_ms"": 169000}"
+54,11,synthetic-episode-0011,avatar,onboarding_cta_clicked,synthetic,2026-05-11T07:30:50Z,{}
+55,11,synthetic-episode-0011,avatar,first_meaningful_action,synthetic,2026-05-11T07:31:00Z,{}
+56,11,synthetic-episode-0011,avatar,create_video_page_opened,synthetic,2026-05-11T07:31:21Z,{}
+57,12,synthetic-episode-0012,control,onboarding_modal_shown,synthetic,2026-05-12T05:30:09Z,"{""has_gclid"": true, ""attribution_source"": ""google"", ""attribution_medium"": ""cpc"", ""attribution_campaign"": ""synthetic_campaign"", ""analytics_consent_state"": ""granted"", ""clarity_enabled"": true}"
+58,12,synthetic-episode-0012,control,onboarding_video_started,synthetic,2026-05-12T05:30:12Z,"{""video_current_time_ms"": 0, ""video_duration_ms"": 169000}"
+59,12,synthetic-episode-0012,control,onboarding_video_progress_25,synthetic,2026-05-12T05:30:35Z,"{""video_current_time_ms"": 42250, ""video_duration_ms"": 169000}"
+60,12,synthetic-episode-0012,control,onboarding_video_progress_50,synthetic,2026-05-12T05:30:54Z,"{""video_current_time_ms"": 84500, ""video_duration_ms"": 169000}"
+61,12,synthetic-episode-0012,control,onboarding_cta_clicked,synthetic,2026-05-12T05:30:59Z,{}
+62,12,synthetic-episode-0012,control,first_meaningful_action,synthetic,2026-05-12T05:31:27Z,{}
+63,12,synthetic-episode-0012,control,create_video_page_opened,synthetic,2026-05-12T05:31:34Z,{}
+64,12,synthetic-episode-0012,control,video_create_started,synthetic,2026-05-12T05:31:48Z,{}
+65,12,synthetic-episode-0012,control,video_create_failed,synthetic,2026-05-12T05:32:02Z,"{""reason"": ""synthetic_failure""}"
+66,13,synthetic-episode-0013,avatar,onboarding_modal_shown,synthetic,2026-05-07T03:48:48Z,"{""has_gclid"": true, ""attribution_source"": ""google"", ""attribution_medium"": ""cpc"", ""attribution_campaign"": ""synthetic_campaign"", ""analytics_consent_state"": ""granted"", ""clarity_enabled"": true}"
+67,13,synthetic-episode-0013,avatar,onboarding_video_started,synthetic,2026-05-07T03:48:51Z,"{""video_current_time_ms"": 0, ""video_duration_ms"": 169000}"
+68,13,synthetic-episode-0013,avatar,onboarding_video_progress_25,synthetic,2026-05-07T03:49:05Z,"{""video_current_time_ms"": 42250, ""video_duration_ms"": 169000}"
+69,13,synthetic-episode-0013,avatar,onboarding_video_progress_50,synthetic,2026-05-07T03:49:34Z,"{""video_current_time_ms"": 84500, ""video_duration_ms"": 169000}"
+70,13,synthetic-episode-0013,avatar,onboarding_video_progress_75,synthetic,2026-05-07T03:50:01Z,"{""video_current_time_ms"": 126750, ""video_duration_ms"": 169000}"
+71,14,synthetic-episode-0014,control,onboarding_modal_shown,synthetic,2026-05-09T18:22:19Z,"{""has_gclid"": false, ""attribution_source"": ""direct"", ""attribution_medium"": ""none"", ""attribution_campaign"": null, ""analytics_consent_state"": ""granted"", ""clarity_enabled"": false}"
+72,14,synthetic-episode-0014,control,onboarding_video_started,synthetic,2026-05-09T18:22:22Z,"{""video_current_time_ms"": 0, ""video_duration_ms"": 169000}"
+73,15,synthetic-episode-0015,avatar,onboarding_modal_shown,synthetic,2026-05-11T02:11:18Z,"{""has_gclid"": true, ""attribution_source"": ""google"", ""attribution_medium"": ""cpc"", ""attribution_campaign"": ""synthetic_campaign"", ""analytics_consent_state"": ""granted"", ""clarity_enabled"": true}"
+74,15,synthetic-episode-0015,avatar,onboarding_video_started,synthetic,2026-05-11T02:11:19Z,"{""video_current_time_ms"": 0, ""video_duration_ms"": 169000}"
+75,15,synthetic-episode-0015,avatar,onboarding_video_progress_25,synthetic,2026-05-11T02:11:43Z,"{""video_current_time_ms"": 42250, ""video_duration_ms"": 169000}"
+76,15,synthetic-episode-0015,avatar,onboarding_video_progress_50,synthetic,2026-05-11T02:12:12Z,"{""video_current_time_ms"": 84500, ""video_duration_ms"": 169000}"
+77,15,synthetic-episode-0015,avatar,onboarding_video_progress_75,synthetic,2026-05-11T02:12:25Z,"{""video_current_time_ms"": 126750, ""video_duration_ms"": 169000}"
+78,15,synthetic-episode-0015,avatar,onboarding_video_progress_90,synthetic,2026-05-11T02:12:42Z,"{""video_current_time_ms"": 152100, ""video_duration_ms"": 169000}"
+79,15,synthetic-episode-0015,avatar,onboarding_video_completed,synthetic,2026-05-11T02:12:59Z,"{""video_current_time_ms"": 169000, ""video_duration_ms"": 169000}"
+80,15,synthetic-episode-0015,avatar,first_meaningful_action,synthetic,2026-05-11T02:13:22Z,{}
+81,15,synthetic-episode-0015,avatar,create_video_page_opened,synthetic,2026-05-11T02:13:49Z,{}
+82,15,synthetic-episode-0015,avatar,video_create_started,synthetic,2026-05-11T02:14:43Z,{}
+83,16,synthetic-episode-0016,control,onboarding_modal_shown,synthetic,2026-05-06T14:23:50Z,"{""has_gclid"": true, ""attribution_source"": ""google"", ""attribution_medium"": ""cpc"", ""attribution_campaign"": ""synthetic_campaign"", ""analytics_consent_state"": ""granted"", ""clarity_enabled"": true}"
+84,16,synthetic-episode-0016,control,onboarding_video_started,synthetic,2026-05-06T14:23:52Z,"{""video_current_time_ms"": 0, ""video_duration_ms"": 169000}"
+85,16,synthetic-episode-0016,control,onboarding_video_progress_25,synthetic,2026-05-06T14:24:12Z,"{""video_current_time_ms"": 42250, ""video_duration_ms"": 169000}"
+86,17,synthetic-episode-0017,avatar,onboarding_modal_shown,synthetic,2026-05-08T01:34:42Z,"{""has_gclid"": true, ""attribution_source"": ""google"", ""attribution_medium"": ""cpc"", ""attribution_campaign"": ""synthetic_campaign"", ""analytics_consent_state"": ""granted"", ""clarity_enabled"": true}"
+87,17,synthetic-episode-0017,avatar,onboarding_video_started,synthetic,2026-05-08T01:34:45Z,"{""video_current_time_ms"": 0, ""video_duration_ms"": 169000}"
+88,17,synthetic-episode-0017,avatar,onboarding_video_progress_25,synthetic,2026-05-08T01:35:08Z,"{""video_current_time_ms"": 42250, ""video_duration_ms"": 169000}"
+89,17,synthetic-episode-0017,avatar,onboarding_video_progress_50,synthetic,2026-05-08T01:35:29Z,"{""video_current_time_ms"": 84500, ""video_duration_ms"": 169000}"
+90,17,synthetic-episode-0017,avatar,onboarding_cta_clicked,synthetic,2026-05-08T01:35:55Z,{}
+91,17,synthetic-episode-0017,avatar,first_meaningful_action,synthetic,2026-05-08T01:36:17Z,{}
+92,18,synthetic-episode-0018,control,onboarding_modal_shown,synthetic,2026-05-11T21:00:01Z,"{""has_gclid"": true, ""attribution_source"": ""google"", ""attribution_medium"": ""cpc"", ""attribution_campaign"": ""synthetic_campaign"", ""analytics_consent_state"": ""granted"", ""clarity_enabled"": true}"
+93,18,synthetic-episode-0018,control,onboarding_video_started,synthetic,2026-05-11T21:00:02Z,"{""video_current_time_ms"": 0, ""video_duration_ms"": 169000}"
+94,19,synthetic-episode-0019,avatar,onboarding_modal_shown,synthetic,2026-05-12T09:38:08Z,"{""has_gclid"": false, ""attribution_source"": ""direct"", ""attribution_medium"": ""none"", ""attribution_campaign"": null, ""analytics_consent_state"": ""granted"", ""clarity_enabled"": false}"
+95,19,synthetic-episode-0019,avatar,onboarding_video_started,synthetic,2026-05-12T09:38:12Z,"{""video_current_time_ms"": 0, ""video_duration_ms"": 169000}"
+96,19,synthetic-episode-0019,avatar,onboarding_video_progress_25,synthetic,2026-05-12T09:38:30Z,"{""video_current_time_ms"": 42250, ""video_duration_ms"": 169000}"
+97,19,synthetic-episode-0019,avatar,onboarding_video_progress_50,synthetic,2026-05-12T09:38:57Z,"{""video_current_time_ms"": 84500, ""video_duration_ms"": 169000}"
+98,19,synthetic-episode-0019,avatar,onboarding_video_progress_75,synthetic,2026-05-12T09:39:23Z,"{""video_current_time_ms"": 126750, ""video_duration_ms"": 169000}"
+99,19,synthetic-episode-0019,avatar,first_meaningful_action,synthetic,2026-05-12T09:39:25Z,{}
+100,20,synthetic-episode-0020,control,onboarding_modal_shown,synthetic,2026-05-06T21:08:49Z,"{""has_gclid"": true, ""attribution_source"": ""google"", ""attribution_medium"": ""cpc"", ""attribution_campaign"": ""synthetic_campaign"", ""analytics_consent_state"": ""granted"", ""clarity_enabled"": true}"
+101,20,synthetic-episode-0020,control,onboarding_video_started,synthetic,2026-05-06T21:08:53Z,"{""video_current_time_ms"": 0, ""video_duration_ms"": 169000}"
+102,20,synthetic-episode-0020,control,first_meaningful_action,synthetic,2026-05-06T21:09:09Z,{}
+103,21,synthetic-episode-0021,avatar,onboarding_modal_shown,synthetic,2026-05-08T11:43:52Z,"{""has_gclid"": true, ""attribution_source"": ""google"", ""attribution_medium"": ""cpc"", ""attribution_campaign"": ""synthetic_campaign"", ""analytics_consent_state"": ""granted"", ""clarity_enabled"": true}"
+104,21,synthetic-episode-0021,avatar,onboarding_video_started,synthetic,2026-05-08T11:43:55Z,"{""video_current_time_ms"": 0, ""video_duration_ms"": 169000}"
+105,21,synthetic-episode-0021,avatar,onboarding_video_progress_25,synthetic,2026-05-08T11:44:16Z,"{""video_current_time_ms"": 42250, ""video_duration_ms"": 169000}"
+106,22,synthetic-episode-0022,control,onboarding_modal_shown,synthetic,2026-05-09T01:59:27Z,"{""has_gclid"": false, ""attribution_source"": ""direct"", ""attribution_medium"": ""none"", ""attribution_campaign"": null, ""analytics_consent_state"": ""granted"", ""clarity_enabled"": true}"
+107,22,synthetic-episode-0022,control,onboarding_cta_clicked,synthetic,2026-05-09T01:59:53Z,{}
+108,22,synthetic-episode-0022,control,first_meaningful_action,synthetic,2026-05-09T01:59:56Z,{}
+109,22,synthetic-episode-0022,control,create_video_page_opened,synthetic,2026-05-09T02:00:05Z,{}
+110,23,synthetic-episode-0023,avatar,onboarding_modal_shown,synthetic,2026-05-14T06:01:40Z,"{""has_gclid"": true, ""attribution_source"": ""google"", ""attribution_medium"": ""cpc"", ""attribution_campaign"": ""synthetic_campaign"", ""analytics_consent_state"": ""granted"", ""clarity_enabled"": true}"
+111,23,synthetic-episode-0023,avatar,onboarding_video_started,synthetic,2026-05-14T06:01:45Z,"{""video_current_time_ms"": 0, ""video_duration_ms"": 169000}"
+112,24,synthetic-episode-0024,control,onboarding_modal_shown,synthetic,2026-05-11T06:29:57Z,"{""has_gclid"": false, ""attribution_source"": ""direct"", ""attribution_medium"": ""none"", ""attribution_campaign"": null, ""analytics_consent_state"": ""granted"", ""clarity_enabled"": false}"
+113,24,synthetic-episode-0024,control,onboarding_video_started,synthetic,2026-05-11T06:30:02Z,"{""video_current_time_ms"": 0, ""video_duration_ms"": 169000}"
+114,24,synthetic-episode-0024,control,onboarding_video_progress_25,synthetic,2026-05-11T06:30:15Z,"{""video_current_time_ms"": 42250, ""video_duration_ms"": 169000}"
+115,24,synthetic-episode-0024,control,onboarding_cta_clicked,synthetic,2026-05-11T06:30:29Z,{}
+116,24,synthetic-episode-0024,control,first_meaningful_action,synthetic,2026-05-11T06:30:41Z,{}
+117,25,synthetic-episode-0025,avatar,onboarding_modal_shown,synthetic,2026-05-10T09:37:55Z,"{""has_gclid"": false, ""attribution_source"": ""direct"", ""attribution_medium"": ""none"", ""attribution_campaign"": null, ""analytics_consent_state"": ""granted"", ""clarity_enabled"": false}"
+118,25,synthetic-episode-0025,avatar,onboarding_video_started,synthetic,2026-05-10T09:37:57Z,"{""video_current_time_ms"": 0, ""video_duration_ms"": 169000}"
+119,25,synthetic-episode-0025,avatar,onboarding_video_progress_25,synthetic,2026-05-10T09:38:24Z,"{""video_current_time_ms"": 42250, ""video_duration_ms"": 169000}"
+120,25,synthetic-episode-0025,avatar,onboarding_video_progress_50,synthetic,2026-05-10T09:38:38Z,"{""video_current_time_ms"": 84500, ""video_duration_ms"": 169000}"
+121,25,synthetic-episode-0025,avatar,onboarding_cta_clicked,synthetic,2026-05-10T09:39:00Z,{}
+122,25,synthetic-episode-0025,avatar,first_meaningful_action,synthetic,2026-05-10T09:39:20Z,{}
+123,25,synthetic-episode-0025,avatar,create_video_page_opened,synthetic,2026-05-10T09:39:29Z,{}
+124,26,synthetic-episode-0026,control,onboarding_modal_shown,synthetic,2026-05-11T15:03:50Z,"{""has_gclid"": false, ""attribution_source"": ""direct"", ""attribution_medium"": ""none"", ""attribution_campaign"": null, ""analytics_consent_state"": ""granted"", ""clarity_enabled"": true}"
+125,26,synthetic-episode-0026,control,onboarding_cta_clicked,synthetic,2026-05-11T15:04:01Z,{}
+126,26,synthetic-episode-0026,control,first_meaningful_action,synthetic,2026-05-11T15:04:09Z,{}
+127,27,synthetic-episode-0027,avatar,onboarding_modal_shown,synthetic,2026-05-11T13:51:24Z,"{""has_gclid"": true, ""attribution_source"": ""google"", ""attribution_medium"": ""cpc"", ""attribution_campaign"": ""synthetic_campaign"", ""analytics_consent_state"": ""granted"", ""clarity_enabled"": false}"
+128,27,synthetic-episode-0027,avatar,onboarding_video_started,synthetic,2026-05-11T13:51:26Z,"{""video_current_time_ms"": 0, ""video_duration_ms"": 169000}"
+129,27,synthetic-episode-0027,avatar,first_meaningful_action,synthetic,2026-05-11T13:51:28Z,{}
+130,27,synthetic-episode-0027,avatar,create_video_page_opened,synthetic,2026-05-11T13:51:41Z,{}
+131,28,synthetic-episode-0028,control,onboarding_modal_shown,synthetic,2026-05-08T09:51:13Z,"{""has_gclid"": true, ""attribution_source"": ""google"", ""attribution_medium"": ""cpc"", ""attribution_campaign"": ""synthetic_campaign"", ""analytics_consent_state"": ""granted"", ""clarity_enabled"": true}"
+132,28,synthetic-episode-0028,control,onboarding_video_started,synthetic,2026-05-08T09:51:15Z,"{""video_current_time_ms"": 0, ""video_duration_ms"": 169000}"
+133,28,synthetic-episode-0028,control,onboarding_video_progress_25,synthetic,2026-05-08T09:51:27Z,"{""video_current_time_ms"": 42250, ""video_duration_ms"": 169000}"
+134,28,synthetic-episode-0028,control,first_meaningful_action,synthetic,2026-05-08T09:51:43Z,{}
