@@ -141,7 +141,11 @@ Daily event roll-up (stored for completeness; not used in estimation).
 ## Derived measures (computed by `run_analysis.py`)
 
 - **Task-entry intent** — 1 if any of CTA click, first meaningful action, or
-  create-video-page open occurred.
+  create-video-page open occurred (movement from onboarding into the task
+  environment).
+- **Time to task entry** — minutes from first exposure to the
+  `first_meaningful_action_at` timestamp, treated as the canonical marker of
+  task-environment entry; computed only for episodes that have that timestamp.
 - **High-intent creation attempt** — 1 if `video_create_started` occurred (the
   primary creation-initiation endpoint).
 - **Maximum observed video position (%)** — per-episode max

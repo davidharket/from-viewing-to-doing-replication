@@ -375,7 +375,7 @@ def write_tables(assignments: pd.DataFrame, output_dir: Path, thesis_table_dir: 
     sample_rows = [
         ["Eligible assigned records in export", str(len(avatar)), str(len(control)), str(len(assignments))],
         [
-            "Additional records excluded after clean export",
+            "Records excluded after eligibility filtering",
             str(int(avatar["excluded_from_analysis"].sum())) if "excluded_from_analysis" in avatar else "0",
             str(int(control["excluded_from_analysis"].sum())) if "excluded_from_analysis" in control else "0",
             str(int(assignments["excluded_from_analysis"].sum())) if "excluded_from_analysis" in assignments else "0",
